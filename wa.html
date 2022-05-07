@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+<style> 
+	
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 4px solid red;
+}
+select {
+  width: 100%;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: white;
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: red;} /* Green */
+.button2 {background-color: ;} /* Blue */
+.btnSubmit {
+        width: 50%;
+        border-radius: 1rem;
+        padding: 1.5%;
+        color: #fff;
+        background-color: #03612e;
+        border: none;
+        cursor: pointer;
+        margin-right: 6%;
+        color: rgb(246, 246, 252);
+        margin-top: 4%;
+      }a
+</style>
+<form action="#" class="form-group">
+     <div class="form-group mb-3">
+     	<label for="fname">Your Name</label>
+         <input type="text" id="name" class="form-control"for="Your name" required>
+     </div>
+     <div class="form-group mb-3">
+          	<label for="fname">Your Email</label>
+         <input type="text" id="email" class="form-control"for="Your name" required>
+     </div>
+      	<label for="fname">Your Phone number</label>
+         <input type="text" id="phone" class="form-control"for="Your name" required>
+     </div>
+      
+      	<label for="fname">Your key</label>
+         <input type="text" id="key" class="form-control"for="Your name" required>
+     </div>
+     <br>
+  	<br>
+     <div class="text-end">
+         <button class="button1" onclick="whatsapp();">Send Request</button>
+         
+         <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cancel Request</button>
+     </div>
+ </form>
+ <script>
+    function whatsapp() {
+         
+        var name = document.getElementById("name").value;
+        var phone = document.getElementById("phone").value;
+        var email = document.getElementById("email").value;
+        var key = document.getElementById("key").value;
+     
+        var url = "https://wa.me/03455453538?text="
+        + "Name: " + name + "%0a"
+        + "Phone: " + phone + "%0a"
+        + "Email: " + email  + "%0a"
+        + "key: " + key; 
+     
+        window.open(url, '_blank').focus();
+    }
+    </script>
+</html>
