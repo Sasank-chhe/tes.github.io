@@ -49,3 +49,24 @@ Mozilla/5.0 (Linux; Android 11; vivo 1819; wv) AppleWebKit/537.36 (KHTML, like G
 Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/13.2b11866 Mobile/16A366 Safari/605.1.15
 Mozilla/5.0 (Apple-iPhone7C2/1202.466; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3
 Mozilla/5.0 (Linux; Android 11; vivo 1907; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36 
+Mozilla/5.0 (Linux; U; Android 8;  en-us; GT-O920F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4785.71 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 10;  en-us; GT-Z721I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4445.84 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 12;  en-us; GT-H740V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.4530.58 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 8;  en-us; GT-N143Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4470.142 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 8;  en-us; GT-C730X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.4762.130 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 12;  en-us; GT-K933H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4878.76 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 9;  en-us; GT-Q871N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4421.142 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 6;  en-us; GT-O50J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4300.45 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 7;  en-us; GT-H615V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.4548.92 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 8;  en-us; GT-N671T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4696.112 Mobile Safari/537.36
+
+Mozilla/5.0 (Linux; U; Android 7;  en-us; GT-B519W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4595.115 Mobile Safari/537.36
